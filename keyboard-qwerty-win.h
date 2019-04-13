@@ -1,7 +1,7 @@
 //
 //  keyboard.h
 //
-//  Created by Clair-Loup Sergent on 13/05/2018.
+//  Created by clsergent on 13/05/2018.
 //
 
 #ifndef keyboard_h
