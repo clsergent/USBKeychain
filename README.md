@@ -1,4 +1,5 @@
 # USBKeychain
+<img src="Images/Exemple.jpg" height="300">
 
 ## Credits
 This key has been inspired by this project : https://codeandlife.com/2012/03/03/diy-usb-password-generator/
@@ -20,7 +21,7 @@ For more complex operations, the python script command.py must be used while the
 ## Building the key
 Refer to the following drawing to build the key. Then flash it with the given firmware (e. g. using ISP).
 
-![Diagram](https://github.com/clsergent/USBKeychain/blob/master/Images/Diagram.jpg)
+![Diagram](Images/Diagram.jpg)
 
 
 Check the Wiki pages for more information
