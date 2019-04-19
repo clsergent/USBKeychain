@@ -24,4 +24,4 @@ Refer to the following drawing to build the key. Then flash it with the given fi
 ![Diagram](Images/Diagram.jpg)
 
 
-Check the Wiki pages for more information
+Check the [Wiki](https://github.com/clsergent/USBKeychain/wiki) for more information
