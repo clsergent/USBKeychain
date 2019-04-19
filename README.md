@@ -15,10 +15,10 @@ A short press on the button allow the key to type the stored password.
 A long press (5 seconds) on the button resets the stored password.
 
 ### Using commandline
-For more complex operations, the python script commandline.py must be used while the key is plugged.
+For more complex operations, the python script command.py must be used while the key is plugged.
 
 ## Building the key
-Refer to the following drawing to build the key. Then flash it with the given driver (e. g. using ISP).
+Refer to the following drawing to build the key. Then flash it with the given firmware (e. g. using ISP).
 
 ![Diagram](https://github.com/clsergent/USBKeychain/blob/master/Images/Diagram.jpg)
 
