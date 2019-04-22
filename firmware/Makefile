@@ -4,7 +4,6 @@ F_CPU= 16500000
 
 # binaries
 CC=avr-gcc
-MICRO=/usr/local/bin/micronucleus
 OBJ2HEX=/usr/local/CrossPack-AVR/bin/avr-objcopy
 AVRDUDE=/usr/local/CrossPack-AVR/bin/avrdude
 
@@ -46,9 +45,6 @@ clean:
 	rm -f $(TARGET).o $(TARGET).elf $(SUBSRC)/*.o
 
 build: main clean
-
-flashM:
-	$(MICRO) $(TARGET).hex
 
 flash:
 	$(AVRDUDE) $(AFLAGS) -U flash:w:$(TARGET).hex
