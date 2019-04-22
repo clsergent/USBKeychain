@@ -18,8 +18,8 @@ Refer to the following drawing to build the key. Then upload the firmware (e. g.
 
 ![Diagram](Images/Diagram.jpg)
 
-
-Check the [Wiki](https://github.com/clsergent/USBKeychain/wiki) for more information
+## More
+Check the [Wiki](https://github.com/clsergent/USBKeychain/wiki) for more information.
 
 ## Credits
 USBKeychain is released under the GNU GPLv3 licence.
