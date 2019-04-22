@@ -14,7 +14,7 @@ A long press (5 seconds) on the button resets the stored password.
 For more complex operations, the python script command.py must be used while the key is plugged.
 
 ## Building the key
-Refer to the following drawing to build the key. Then upload the firmware (e. g. using ISP).
+Refer to the following drawing to build the key. Then upload the firmware using ISP.
 
 ![Diagram](Images/Diagram.jpg)
 
