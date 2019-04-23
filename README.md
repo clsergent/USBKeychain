@@ -2,7 +2,7 @@
 <img src="Images/Exemple.jpg" height="300">
 
 ## Purpose
-USBKeychain is an USB key designed to generate, store, type and delete a password using an unexpensive Atmel Attiny85 chip. It mimics the behavior of an USB keyboard, which makes it (almost) universal and driverless.
+USBKeychain is an USB key designed to generate, store, type and delete a password using an inexpensive Atmel Attiny85 chip. It mimics the behavior of an USB keyboard, which makes it (almost) universal and driverless.
 
 ## Short user guide
 ### Button
