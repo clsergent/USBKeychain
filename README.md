@@ -22,12 +22,11 @@ Refer to the following drawing to build the key. Then upload the firmware using 
 Check the [Wiki](https://github.com/clsergent/USBKeychain/wiki) for more information.
 
 ## Credits
-USBKeychain is released under the GNU GPLv3 licence.
-
 This key has been inspired by this project : https://codeandlife.com/2012/03/03/diy-usb-password-generator/
 
 It makes an extensive use of the library V-USB distributed here (under GNU GPL2 or GPL3) : http://www.obdev.at/vusb/ 
 
 ## License
 This repository and its content are licensed under the EUPL-1.2-or-later.
+
 Check https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
